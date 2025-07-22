@@ -114,8 +114,8 @@ const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold mb-4">Contact Info</h4>
             <div className="space-y-2 text-gray-300">
-              <p>+91 98765 43210</p>
-              <p>info@kadiamgreen.com</p>
+              <p>+91 9646195555</p>
+              <p>info@hariharanursery.com</p>
               <p>Kadiam, East Godavari</p>
               <p>Andhra Pradesh - 533126</p>
             </div>
