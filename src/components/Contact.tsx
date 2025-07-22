@@ -46,7 +46,7 @@ const Contact = () => {
                     <p className="text-gray-600">
                       Harihara Nursery,<br />
                       Kadiyam,Burrilanka near sand bridge,<br />
-                      Kadiyam, Andhra pradesh – 123456, India
+                      Kadiyam, Andhra pradesh – 533126, India
                     </p>
                   </div>
                 </div>
@@ -56,7 +56,7 @@ const Contact = () => {
                   <div>
                     <h4 className="font-semibold text-gray-800">Phone & WhatsApp</h4>
                     <p className="text-gray-600">
-                      <a href="tel:+919876543210" className="hover:text-green-600 transition-colors">+91 98765 43210</a>
+                      <a href="tel:+919646195555" className="hover:text-green-600 transition-colors">+91 9646195555</a>
                     </p>
                   </div>
                 </div>

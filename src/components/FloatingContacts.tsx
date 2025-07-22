@@ -6,11 +6,11 @@ const FloatingContacts = () => {
   const whatsappNumber = "+919876543210";
 
   const handlePhoneCall = () => {
-    window.open(`tel:${+917075599168}`, '_self');
+    window.open(`tel:${+919646195555}`, '_self');
   };
 
   const handleWhatsApp = () => {
-    window.open(`https://wa.me/${917075599168}`, '_blank');
+    window.open(`https://wa.me/${919646195555}`, '_blank');
   };
 
   return (
